@@ -14,7 +14,9 @@ const help = (prefix) => {
   ➺ 𝗡𝗨𝗠𝗘𝗥𝗢:wa.me/+556392942637
 ╰═══════════════════╯
 
-▁▂▃▄▅▆▇█𝗭𝗨𝗖𝗞𝗭𝗜𝗡█▇▆▅▄▃▂▁          
+▁▂▃▄▅▆▇█𝗭𝗨𝗖𝗞𝗭𝗜𝗡█▇▆▅▄▃▂▁ 
+
+𝗙𝗔𝗖𝗖 𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥-𝗦𝗣𝗔𝗠: https://chat.whatsapp.com/GGEE0gIiSbv09yA50BhSwP       
 
 𝗚𝗥𝗨𝗣𝗢 𝗔𝗥𝗥157-𝗖𝗛𝗔𝗧 𝗣𝗨𝗕𝗟𝗜𝗖: https://chat.whatsapp.com/FvPEpkaPrFXAErjML3ekyW
 
